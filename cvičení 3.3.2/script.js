@@ -12,4 +12,5 @@ console.log(age2)
 let součet = age + age2;
 console.log(součet)
 
-let text = "zita majda" + 
+let text = "zita majda" 
+console.log(text)
