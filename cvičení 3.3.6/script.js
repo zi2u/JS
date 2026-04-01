@@ -1,7 +1,9 @@
-
-
-for (let i = 2; i <= 100; i++) {
-
-    if (i === 50) continue;
-    if(i / 2) continue;
+for (let m = 2; m <101; m++){
+    if (m === 50){
+        m++;
+        continue;
+    }
+    if (m % 2 === 0);
+    console.log(m);
+    m ++
 }
