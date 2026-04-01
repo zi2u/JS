@@ -1,4 +1,4 @@
-let  age = 20
+let  age = 3;
 if (age <= 3) {
     console.log("vstup zdarma")
     if (age > 3 && age < 10) {
